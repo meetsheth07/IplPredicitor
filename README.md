@@ -6,6 +6,13 @@ This project demonstrates a complete **end-to-end ML pipeline with interactive d
 
 ---
 
+## 🌐 Live Preview
+
+👉 Try the app here:  
+🔗 https://ipl-match-outcome-predictor-bymeet.streamlit.app/
+
+---
+
 ## 🚀 Overview
 
 The IPL Predictor uses trained ML models on historical IPL match data to dynamically compute **win probabilities** during a live match scenario.
