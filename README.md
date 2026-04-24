@@ -147,6 +147,8 @@ streamlit run app.py
 * 📊 Confidence estimation
 
 ---
+## Demo Link
+https://ipl-match-outcome-predictor-bymeet.streamlit.app/
 
 ## 🧪 Model Details
 
